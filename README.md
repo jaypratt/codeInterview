@@ -17,3 +17,4 @@ Generated key for TMDB api calls
 Created account in postman to test api calls (works)
 Attempting to learn javascript on the fly to make api calls
 Found that fetch was the best method to use, but no way to test it yet
+Decided to try and cut losses on making the WebService functional, and work on WebApp for something to show
