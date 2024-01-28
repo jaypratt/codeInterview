@@ -3,6 +3,7 @@ This repo is to be used for the Code Interview \
 It's highly unfortunate that this isn't using the languages I'm used to, namely MySQL and Python. \
 ~Jay \
 \
+*Note* ### This Code Does Not Work and should only be used to investigate how I went about trying to solve the problem. ###
 \
 Web App (frontfacing) \
  -HTML  \
